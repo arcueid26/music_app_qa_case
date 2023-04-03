@@ -8,7 +8,7 @@ import 'package:music_app/presentation/blocs/tracks/bloc/tracks_bloc.dart';
 import 'package:music_app/presentation/widgets/space.dart';
 import 'package:music_app/presentation/widgets/state_widget.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:music_app/presentation/widgets/tite_description_widget.dart';
+import 'package:music_app/presentation/widgets/title_description_widget.dart';
 
 class AlbumDetailsPage extends StatefulWidget {
   AlbumDetailsPage({Key? key}) : super(key: key);
